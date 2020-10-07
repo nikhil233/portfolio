@@ -8600,7 +8600,7 @@ textarea.form-control {
   background-repeat: no-repeat; }
   @media only screen and (max-width: 768px) {
     .block-3 .image {
-      height: 700px; 
+      max-height: 700px; 
     } 
     .ftco-counter .text strong.number {
       font-size: 100px;
